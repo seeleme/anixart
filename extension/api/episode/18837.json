@@ -1,0 +1,126 @@
+{
+"code": 0,
+"types": [
+{
+"@id": 1,
+"id": 29,
+"name": "StudioBand ( ͡• ͜ʖ ͡• )",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 3,
+"id": 46,
+"name": "Субтитры | CR",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 4,
+"id": 26,
+"name": "Дублированный ( ͡° ͜ʖ ͡°)",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 5,
+"id": 9,
+"name": "AnimeVost (Хуйня)",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 6,
+"id": 1,
+"name": "AniDUB",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 7,
+"id": 24,
+"name": "Субтитры",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 8,
+"id": 115,
+"name": "NewComers",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 9,
+"id": 185,
+"name": "TVShows",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 13,
+"id": 93,
+"name": "FumoDub (Это пиздец)",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 14,
+"id": 149,
+"name": "Trina_D & Rizz_Fisher (AniDUb вроде, хуй знает)",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+},
+{
+"@id": 15,
+"id": 164,
+"name": "NekoVoice → (Кринж Воис)",
+"icon": null,
+"workers": "Отображается благодаря расширению «MD Seele»",
+"is_sub": false,
+"episodes_count": 1,
+"view_count": 0,
+"pinned": false
+}
+]
+}
