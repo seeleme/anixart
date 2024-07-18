@@ -110,10 +110,10 @@
       },
       "name": "1 серия • В разработке",
       "url": "https://kodik.info/seria/1327199/df978ec97d2f2d6a4fb4c586e0a2ac8b/720p",
-      "iframe": true,
+      "iframe": false,
       "addedDate": 0,
       "is_filler": false,
-      "is_watched": false
+      "is_watched": true
     },
     {
       "@id": 5,
