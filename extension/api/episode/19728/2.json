@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "sources": [
+    {
+      "@id": 1,
+      "id": 7,
+      "type": {
+        "@id": 2,
+        "id": 2,
+        "name": "AniLibria",
+        "icon": null,
+        "workers": "",
+        "is_sub": false,
+        "episodes_count": 0,
+        "view_count": 0,
+        "pinned": false
+      },
+      "name": "Kodik",
+      "episodes_count": 2
+    },
+    {
+      "@id": 3,
+      "id": 218,
+      "type": 2,
+      "name": "Libria",
+      "episodes_count": 2
+    }
+  ]
+}
