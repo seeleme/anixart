@@ -8,8 +8,18 @@
       "icon": null,
       "workers": "Этого аниме нет на сервере anixart и на нашем сервере оно тоже недоступно!",
       "is_sub": false,
-      "episodes_count": 4,
-      "view_count": 192277,
+      "episodes_count": 0,
+      "view_count": 0,
+      "pinned": false
+    },
+    {"@id": 2,
+      "id": 2,
+      "name": "Этого аниме нет на сервере anixart и на нашем сервере оно тоже недоступно!",
+      "icon": null,
+      "workers": null,
+      "is_sub": false,
+      "episodes_count": 0,
+      "view_count": 0,
       "pinned": false
     }
   ]
