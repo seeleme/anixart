@@ -11,7 +11,7 @@
 "inAppUpdates": true,
 "inAppUpdatesImmediate": false,
 "inAppUpdatesFlexibleDelay": 0,
-"impMessageEnabled": false,
+"impMessageEnabled": true,
 "impMessageText": "Источник Libria в озвучке AniLibria может временно работать нестабильно из-за DDoS-атак.",
 "impMessageBackgroundColor": "",
 "impMessageTextColor": "",
