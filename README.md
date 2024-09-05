@@ -1,2 +1,2 @@
 Все информация тут:
-<b><a href="https://darknet.kz">Перейти в репозиторий »</a></b>
+<b><a href="https://anixart.seele.su">Перейти в репозиторий »</a></b>
